@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+
+
+
+
+
+
+body{
+    background-color: #212121;
+}
+
+#banner {
+    
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: 20px;
+    text-align: center;
+}
+.box {
+    width: 75%;
+    background:  rgba(44, 44, 44, 0.342);
+    padding: 20px;
+    text-align:left;
+    line-height: 2;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    color: rgb(255, 255, 255);
+    font-family: 'Century Gothic' ,sans-serif;
+}
